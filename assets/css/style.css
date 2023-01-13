@@ -35,3 +35,15 @@
 .heading-twitter p{
     font-size: 16px;
 }
+.fill-in{
+    margin-top: 15px;
+}
+
+.fill-in p{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+p span{
+    color: #1DA1F2;
+}
