@@ -1,11 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap');
+
 *{
     font-family: "Source Sans Pro";
-    height: 0;
+    margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
-
+ 
 .embed{
     width: 601px;
-    margin: auto;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #c9c9c9;
+    padding: 31px 35px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.heading-twitter{
+    margin-left: 22px;
+}
+
+.ilus-twitter{
+    margin-left: 342px;
+}
+
+.heading-twitter h1{
+    font-size: 18px;
+}
+
+.heading-twitter p{
+    font-size: 16px;
 }
