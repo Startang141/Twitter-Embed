@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap');
+*{
+    font-family: "Source Sans Pro";
+    height: 0;
+    padding: 0;
+}
+
+.embed{
+    width: 601px;
+    margin: auto;
+}
