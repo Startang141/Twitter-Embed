@@ -15,33 +15,68 @@
     padding: 31px 35px;
 }
 
+.embed-black{
+    width: 601px;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #c9c9c9;
+    padding: 31px 35px;
+    background-color: #243447;
+}
+
 .header{
     display: flex;
     align-items: center;
-}
-
-.heading-twitter{
-    margin-left: 22px;
 }
 
 .ilus-twitter{
     margin-left: 342px;
 }
 
+.heading-twitter{
+    margin-left: 22px;
+}
+
+.heading-twitter-black{
+    margin-left: 22px;
+}
+
+
 .heading-twitter h1{
     font-size: 18px;
+}
+
+.heading-twitter-black h1{
+    font-size: 18px;
+    color: #FFFFFF;
 }
 
 .heading-twitter p{
     font-size: 16px;
 }
+
+.heading-twitter-black p{
+    font-size: 16px;
+    color: #ffffffb5;
+}
+
 .fill-in{
+    margin-top: 15px;
+}
+
+.fill-in-black{
     margin-top: 15px;
 }
 
 .fill-in p{
     font-size: 16px;
     line-height: 20px;
+}
+
+.fill-in-black p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
 }
 
 p span{
@@ -58,12 +93,28 @@ p span{
     display: flex;
 }
 
+.ilus-love-black{
+    display: flex;
+}
+
 .ilus-love h3{
     margin-left: 12px;
 }
 
+.ilus-love-black h3{
+    margin-left: 12px;
+    color: #ffffffb5;
+}
+
 .detail{
+    margin-top: -5px;
     margin-left: 20px;
+}
+
+.detail-black{
+    margin-top: -5px;
+    margin-left: 20px;
+    color: #ffffffb5;
 }
 
 .bottom-embed h3{
